@@ -35,13 +35,3 @@ This repository contains an exploratory data analysis (EDA) of a medical dataset
 
 ---
 
-## 📌 Data Quality Checks
-
-- **Extreme Values**  
-  - How many patients have unusually high heart rate values (e.g. 1111)?
-
-- **Constant or Duplicate Entries**  
-  - Are there duplicate or constant values (e.g., CK-MB = 300 across many rows)?
-
-- **Suspicious Troponin Records**  
-  - Are any Troponin readings missing or zero where a positive diagnosis exists?
